@@ -1,0 +1,76 @@
+body {
+  padding-top: 25px;
+}
+
+.homepage {
+  background-image: url('/imgs/dinnerbg.jpg');
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.home-header,
+.home-text {
+  color: white;
+  padding-top: 100px;
+  margin-left: 70px;
+  text-shadow: black 3px 3px;
+}
+
+.custom-font {
+  font-size: 58px;
+}
+
+.custom-font2 {
+  font-size: 32px;
+}
+
+.navbar {
+  background-color: rgb(92, 2, 0);
+}
+
+.nav-item a {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.nav-item a:hover {
+  color: rgb(211, 170, 170);
+}
+
+#menu1 {
+  background-image: url('/imgs/chickenimg.jpg');
+  background-size: cover;
+  width: 100%;
+  height: 300px;
+  border-radius: 10px;
+  padding-top: 120px;
+  color: white;
+  text-shadow: black 2px 2px;
+  font-size: 50px;
+}
+
+#menu2 {
+  background-image: url('/imgs/barbecueimg.jpg');
+  background-size: cover;
+  width: 100%;
+  height: 300px;
+  border-radius: 10px;
+  padding-top: 120px;
+  color: white;
+  text-shadow: black 2px 2px;
+  font-size: 50px;
+}
+
+#menu3 {
+  background-image: url('/imgs/fishimg.jpg');
+  background-size: cover;
+  width: 100%;
+  height: 300px;
+  border-radius: 10px;
+  padding-top: 120px;
+  color: white;
+  text-shadow: black 2px 2px;
+  font-size: 50px;
+}
